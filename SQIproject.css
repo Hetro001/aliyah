@@ -1,0 +1,49 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.bigcontainer{
+   background-color: snow;
+   width: 100%;
+}
+
+.container1{
+   display: flex;
+   justify-content: space-between;
+   gap: 6px;
+}
+.first-text{
+   margin-top: 69px;
+}
+.fonts{
+   font-size:70px;
+   color: midnightblue;
+}
+.fonts2{
+   font-size: 18px;
+}
+.button{
+   background-color: darkblue;
+   width: 26%;
+   height: 13%;
+   border-radius: 14px;
+   border: none;
+   color: aliceblue;
+   margin-top: 13px;
+}
+.container2{
+   margin: auto;
+}
+.img{
+   display: flex;
+}
+.margin{
+   margin-top: 55px;
+   margin-bottom: 40px;
+}
+.margin h5{
+   font-size: 50px;
+   color: midnightblue;
+}
